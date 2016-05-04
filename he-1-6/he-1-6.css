@@ -148,17 +148,17 @@ body{
 }
 
 .text1{
-	width:200px;
-	height: 500px;
-	display: inline;
-	padding-left: 20px;
-
+	width:30%;
 }
-/*
+
 .text1-what{
 	font-size: 16px;
 	color: #418c59;
 	font-family: "微软雅黑";
 	font-weight:bold;
 	text-decoration: underline;
+}
+.text1-word{
+	width: 100%;
+	margin-right: 15px;
 }
