@@ -45,10 +45,14 @@ body{
 }
 
 
+
+
+
+
 /*middle-1*/
 .middle-1{
 	height: 301px;
-	position: absolute;
+	position: relative;
 	margin-top:20px;
 	background: white;
 	width: 892px;
@@ -132,4 +136,29 @@ body{
 	font-size:12px;
 	color: #cc8091;
 	font-family: "微软雅黑";
+}
+
+
+
+
+/*middle-2*/
+.middle-2{
+	margin-top: 20px;
+	width: 641px;
+}
+
+.text1{
+	width:200px;
+	height: 500px;
+	display: inline;
+	padding-left: 20px;
+
+}
+/*
+.text1-what{
+	font-size: 16px;
+	color: #418c59;
+	font-family: "微软雅黑";
+	font-weight:bold;
+	text-decoration: underline;
 }
