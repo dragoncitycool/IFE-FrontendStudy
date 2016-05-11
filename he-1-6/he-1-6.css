@@ -277,3 +277,40 @@ body{
 	line-height: 16px;
 	text-indent: 2em;
 }
+
+
+.middle3-right{
+	float: right;
+	width: 458px;	
+}
+.middle3-rightup{
+	width: 458px;
+	height: 275px;
+	position: relative;
+}
+.middle3-rightup-cover{
+	width: 458px;
+	height: 61px;
+	position: absolute;
+	bottom: 0px;
+	background: black;
+	opacity:0.7;
+
+}
+.cover-word{
+	border-left: 3px solid #72b16a;
+	margin:9px 0px 9px 25px;
+	padding: 2px;
+
+}
+#cover-word1{
+	font-size: 26px;
+	color: white;
+	font-family:  "微软雅黑";
+}
+#cover-word2{
+	font-size: 12px;
+	color: #72b16a;
+	font-family:  "微软雅黑";
+	font-style: oblique;
+}
