@@ -358,6 +358,7 @@ body{
 	font-family: "微软雅黑";
 	float: left;
 	border-right: 2px solid white;
+	
 }
 #behind-zero1{
 	font-size:21px;
@@ -367,5 +368,5 @@ body{
 }
 #behind-zero2{
 	font-size: 12px;
-	
+
 }
